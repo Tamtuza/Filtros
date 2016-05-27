@@ -4,3 +4,9 @@ c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\Filtr
 c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.csprojResolveAssemblyReference.cache
 c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.exe
 c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.pdb
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.exe.config
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.exe
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.pdb
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.exe
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.pdb
+C:\Users\Tamillys\Documents\GitHub\Filtros\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.csprojResolveAssemblyReference.cache

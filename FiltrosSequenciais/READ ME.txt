@@ -1,0 +1,7 @@
+Implementação em C# dos filtros
+
+- Média
+- Mediana
+- Gaussiano
+
+As imagens com os resultados são salvas em "/FiltrosSequenciais/bin/Debug/"

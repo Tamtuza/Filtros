@@ -15,8 +15,8 @@ namespace FiltrosSequenciais
         {
             Console.Title = "Filtros Sequenciais";
 
-            //Define endereço da imagem a ser trabalhada
-            Bitmap imgEntrada = (Bitmap)Image.FromFile(@"C:\Users\Tamillys\Desktop\lena.jpg");
+            //Define imagem a ser trabalhada
+            Bitmap imgEntrada = (Bitmap)Image.FromFile("lena.jpg");
 
             Console.WriteLine("\nExecutando Filtro da Média");
             //Chama função que executa filtro da Média
@@ -72,7 +72,7 @@ namespace FiltrosSequenciais
             imgSaida = img;
 
             //Salva imagem filtrada
-            imgSaida.Save(@"C:\Users\Tamillys\Desktop\lenaMedia.jpg");
+            imgSaida.Save("lena1Media.jpg");
         }
 
         static void medianFilter(Bitmap imgSaida)
@@ -118,7 +118,7 @@ namespace FiltrosSequenciais
             imgSaida = img;
 
             //Salva imagem filtrada
-            imgSaida.Save(@"C:\Users\Tamillys\Desktop\lenaMediana.jpg");
+            imgSaida.Save("lena2Mediana.jpg");
         }
 
         static void gaussianFilter(Bitmap imgSaida)
@@ -161,7 +161,7 @@ namespace FiltrosSequenciais
             imgSaida = img;
 
             //Salva imagem filtrada
-            imgSaida.Save(@"C:\Users\Tamillys\Desktop\lenaGaussian.jpg");
+            imgSaida.Save("lena3Gaussiano.jpg");
         }
 
     }
