@@ -1,0 +1,6 @@
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.exe.config
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.exe
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\bin\Debug\FiltrosSequenciais.pdb
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.csprojResolveAssemblyReference.cache
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.exe
+c:\users\tamillys\documents\visual studio 2013\Projects\FiltrosSequenciais\FiltrosSequenciais\obj\Debug\FiltrosSequenciais.pdb
